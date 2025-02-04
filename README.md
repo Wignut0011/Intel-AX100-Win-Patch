@@ -1,3 +1,5 @@
+![Release v1.0](https://badgen.net/github/release/Wignut0011/Intel-AX100-Win-Patch?icon=github) ![Windows 10](https://badgen.net/badge/icon/Windows-10?icon=windows&label)
+
 # Intel-AX100 Sleep Crash Patch
 Band-Aid patch for a severe Intel AX100 driver bug where it crashes after Windows 10 wakes from sleep
 
